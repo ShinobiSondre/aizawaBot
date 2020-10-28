@@ -14,7 +14,7 @@ public class aizawaBot {
     public static void main (String args[]) throws LoginException {
 
 
-        JDABuilder builder = JDABuilder.createDefault(System.getenv("TOKEN"));
+        JDABuilder builder = JDABuilder.createDefault("NzQ5NDA3MjE2NTk0OTc2Nzkw.X0rh2w.0XuLs3vJtcXQX_--zvH323_VczI");
 
         // Disable parts of the cache
         builder.disableCache(CacheFlag.MEMBER_OVERRIDES, CacheFlag.VOICE_STATE);
