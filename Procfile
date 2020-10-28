@@ -1,1 +1,1 @@
-Worker: java src/main/java/aizawaBot.java
+worker: java src/main/java/aizawaBot.java
