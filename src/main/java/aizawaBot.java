@@ -7,21 +7,11 @@ import net.dv8tion.jda.api.utils.cache.CacheFlag;
 
 import javax.security.auth.login.LoginException;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.web.bind.annotation.*;
-import org.springframework.stereotype.*;
 
-@Controller
-@SpringBootApplication
+
 public class aizawaBot {
 
-    @RequestMapping("/")
-    @ResponseBody
 
-    String home() {
-        return "Hello World!";
-    }
 
     public static void main (String args[]) throws LoginException {
 
@@ -42,7 +32,7 @@ public class aizawaBot {
 
         builder.build();
 
-        SpringApplication.run(aizawaBot.class, args);
+
 
 
 
