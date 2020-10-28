@@ -1,27 +1,14 @@
 package events;
 
 import ReadWrite.ReadWrite;
-import com.sun.corba.se.spi.ior.IdentifiableFactory;
-import com.sun.security.ntlm.Client;
-import com.sun.webkit.ColorChooser;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.JDA;
-import net.dv8tion.jda.api.JDABuilder;
-import net.dv8tion.jda.api.OnlineStatus;
 import net.dv8tion.jda.api.entities.*;
-import net.dv8tion.jda.api.events.message.GenericMessageEvent;
-import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import net.dv8tion.jda.api.events.message.guild.GuildMessageReceivedEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
-import sun.util.resources.cldr.ga.TimeZoneNames_ga;
 
-import javax.annotation.Nonnull;
-import javax.swing.text.AttributeSet;
 import java.awt.*;
-import java.io.File;
-import java.io.IOException;
 import java.lang.reflect.Field;
-import java.text.Format;
 import java.util.ArrayList;
 import java.util.HashMap;
 
