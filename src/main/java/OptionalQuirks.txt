@@ -1,0 +1,67 @@
+  - Air Cannon
+  - Air Walk
+  - Amplivoit
+  - Anthromorph
+  - Barrier
+  - Bat
+  - Beast
+  - Beams From His Eyes
+  - Big Fist
+  - Binging Ball
+  - Black Whip
+  - Black
+  - Blast
+  - Boomerang
+  - Bubble
+  - Cemedine
+  - Centipede
+  - Cephalopod
+  - Clones
+  - Compress
+  - Double
+  - Dragon
+  - Earth Flow
+  - Extend-o-Hair
+  - Fat Absorption
+  - Fiber Master
+  - Foldabody
+  - Forced Quirk Activation
+  - Gas
+  - Gattling
+  - Gigantification
+  - Glamour
+  - Glide and Slide
+  - Heal
+  - High Spec
+  - Homing
+  - Impact Recoil
+  - Invisibility
+  - Iron Claws
+  - Leap
+  - Lock Down
+  - Love
+  - Magnetism
+  - Manifest
+  - Meatball
+  - Metal Manipulation
+  - Mimicry
+  - Muscle Augmentation
+  - Navel Laser
+  - Pliabody
+  - Orcinus
+  - Outburst
+  - Overhaul
+  - Pop Off
+  - Quad Arms
+  - Rewind
+  - Shock Absorption
+  - Sloshed
+  - Softening
+  - Solid Air
+  - Sugar Rush
+  - Super Regeneration
+  - Tail
+  - Telepath
+  - Transform
+  - Vibrate
+  - Zoom
